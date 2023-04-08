@@ -1,0 +1,361 @@
+---
+- id: 4-0s-1
+  name: Hamburg S1
+  hex: "#00962c"
+- id: 4-0s-11
+  name: Hamburg S11
+  hex: "#00962c"
+- id: 4-0s-2
+  name: Hamburg S2
+  hex: "#b41439"
+- id: 4-0s-21
+  name: Hamburg S21
+  hex: "#b41439"
+- id: 4-0s-3
+  name: Hamburg S3
+  hex: "#54216e"
+- id: 4-0s-31
+  name: Hamburg S31
+  hex: "#54216e"
+- id: 4-0s-4
+  name: Hamburg S4
+  hex: "#ec0068"
+- id: 4-0s-5
+  name: Hamburg S5
+  hex: "#009cca"
+- id: 4-0s-6
+  name: Hamburg S6
+  hex: "#d2d900"
+- id: 7-hvv001-1
+  name: Hamburg U1
+  hex: "#005aa4"
+- id: 7-hvv001-2
+  name: Hamburg U2
+  hex: "#ed0020"
+- id: 7-hvv001-3
+  name: Hamburg U3
+  hex: "#ffd600"
+- id: 7-hvv001-4
+  name: Hamburg U4
+  hex: "#008b8f"
+- id: akn-a1
+  name: Hamburg A1
+  hex: "#fe8019"
+- id: akn-a2
+  name: Hamburg A1
+  hex: "#fe8019"
+- id: akn-a3
+  name: Hamburg A1
+  hex: "#fe8019"
+- id: 4-800528-1
+  name: Rhein-Main S1
+  hex: "#0095d9"
+- id: 4-800528-2
+  name: Rhein-Main S2
+  hex: "#ed1c24"
+- id: 4-800528-3
+  name: Rhein-Main S3
+  hex: "#00a895"
+- id: 4-800528-4
+  name: Rhein-Main S4
+  hex: "#FFCB04"
+- id: 4-800528-5
+  name: Rhein-Main S5
+  hex: "#955B36"
+- id: 4-800528-6
+  name: Rhein-Main S6
+  hex: "#F47820"
+- id: 4-800528-7
+  name: Rhein-Main S7
+  hex: "#21543F"
+- id: 4-800528-8
+  name: Rhein-Main S8
+  hex: "#8CC63E"
+- id: 4-800528-9
+  name: Rhein-Main S9
+  hex: "#91268F"
+- id: 7-rmv255-1
+  name: Frankfurt U1
+  hex: "#A30017"
+- id: 7-rmv255-2
+  name: Frankfurt U2
+  hex: "#00A651"
+- id: 7-rmv255-3
+  name: Frankfurt U3
+  hex: "#36418C"
+- id: 7-rmv255-4
+  name: Frankfurt U4
+  hex: "#E03181"
+- id: 7-rmv255-5
+  name: Frankfurt U5
+  hex: "#005F24"
+- id: 7-rmv255-6
+  name: Frankfurt U6
+  hex: "#007DC5"
+- id: 7-rmv255-7
+  name: Frankfurt U7
+  hex: "#DE9000"
+- id: 7-rmv255-8
+  name: Frankfurt U8
+  hex: "#BF66A1"
+- id: 7-rmv255-9
+  name: Frankfurt U9
+  hex: "#FFD600"
+- id: 4-800244-1
+  name: Hannover S1
+  hex: "#987baf"
+- id: 4-tdhs-1
+  name: Hannover S1
+  hex: "#987baf"
+- id: 4-800244-2
+  name: Hannover S2
+  hex: "#0b8439"
+- id: 4-tdhs-2
+  name: Hannover S2
+  hex: "#0b8439"
+- id: 4-800244-21
+  name: Hannover S21
+  hex: "#0b8439"
+- id: 4-tdhs-21
+  name: Hannover S21
+  hex: "#0b8439"
+- id: 4-tdhs-3
+  name: Hannover S3
+  hex: "#e27fab"
+- id: 4-800244-3
+  name: Hannover S3
+  hex: "#e27fab"
+- id: 4-800244-4
+  name: Hannover S4
+  hex: "#cc1076"
+- id: 4-tdhs-4
+  name: Hannover S4
+  hex: "#cc1076"
+- id: 4-800244-5
+  name: Hannover S5
+  hex: "#f0a10c"
+- id: 4-tdhs-5
+  name: Hannover S5
+  hex: "#f0a10c"
+- id: 4-800244-51
+  name: Hannover S51
+  hex: "#f0a10c"
+- id: 4-tdhs-51
+  name: Hannover S51
+  hex: "#f0a10c"
+- id: 4-800244-6
+  name: Hannover S6
+  hex: "#2a3f90"
+- id: 4-tdhs-6
+  name: Hannover S7
+  hex: "#2a3f90"
+- id: 4-800244-7
+  name: Hannover S7
+  hex: "#bcd267"
+- id: 4-tdhs-7
+  name: Hannover S8
+  hex: "#bcd267"
+- id: 4-800244-8
+  name: Hannover S8
+  hex: "#92c9e9"
+- id: 4-tdhs-8
+  name: Hannover S8
+  hex: "#92c9e9"
+- id: 4-800643-1
+  name: Stuttgart S1
+  hex: "#59af41"
+- id: 4-800643-11
+  name: Stuttgart S11
+  hex: "#59af41"
+- id: 4-800643-2
+  name: Stuttgart S2
+  hex: "#ee1c27"
+- id: 4-800643-3
+  name: Stuttgart S3
+  hex: "#f36e31"
+- id: 4-800643-4
+  name: Stuttgart S4
+  hex: "#0366b3"
+- id: 4-800643-5
+  name: Stuttgart S5
+  hex: "#05acdd"
+- id: 4-800643-6
+  name: Stuttgart S6
+  hex: "#804a00"
+- id: 4-800643-60
+  name: Stuttgart S60
+  hex: "#898b04"
+- id: 4-800643-62
+  name: Stuttgart S62
+  hex: "#c4792e"
+- id: 4-800725-1
+  name: München S1
+  hex: "#16C0E9"
+- id: 4-800725-2
+  name: München S2
+  hex: "#71BF44"
+- id: 4-800725-3
+  name: München S3
+  hex: "#7B107D"
+- id: 4-800725-4
+  name: München S4
+  hex: "#EE1C25"
+- id: 4-800725-6
+  name: München S6
+  hex: "#008A51"
+- id: 4-800725-7
+  name: München S7
+  hex: "#963833"
+- id: 4-800725-8
+  name: München S8
+  hex: "#FFCB06"
+- id: 4-800725-20
+  name: München S20
+  hex: "#F05A73"
+- id: 7-swm001-1
+  name: München U1
+  hex: "#3e7236"
+- id: 7-swm001-2
+  name: München U2
+  hex: "#c20831"
+- id: 7-swm001-3
+  name: München U3
+  hex: "#ec6725"
+- id: 7-swm001-4
+  name: München U4
+  hex: "#00a984"
+- id: 7-swm001-5
+  name: München U5
+  hex: "#bc7a00"
+- id: 7-swm001-6
+  name: München U6
+  hex: "#0065ae"
+- id: 7-swm001-7
+  name: München U7
+  hex: "#3e7236"
+- id: 7-swm001-8
+  name: München U8
+  hex: "#ec6725"
+- id: 7-810009-1
+  name: Wien U1
+  hex: "#E20613"
+- id: 7-810009-2
+  name: Wien U2
+  hex: "#A762A3"
+- id: 7-810009-3
+  name: Wien U3
+  hex: "#EE7D00"
+- id: 7-810009-4
+  name: Wien U4
+  hex: "#009540"
+- id: 7-810009-5
+  name: Wien U5
+  hex: "#008E95"
+- id: 7-810009-6
+  name: Wien U6
+  hex: "#9D6930"
+- id: 4-08-1
+  name: Berlin S1
+  hex: "#DA6BA2"
+- id: 4-08-2
+  name: Berlin S2
+  hex: "#007734"
+- id: 4-08-25
+  name: Berlin S25
+  hex: "#007734"
+- id: 4-08-26
+  name: Berlin S26
+  hex: "#007734"
+- id: 4-08-3
+  name: Berlin S3
+  hex: "#0066AD"
+- id: 4-08-41
+  name: Berlin S41
+  hex: "#AD5937"
+- id: 4-08-42
+  name: Berlin S42
+  hex: "#CB6418"
+- id: 4-08-45
+  name: Berlin S45
+  hex: "#CD9C53"
+- id: 4-08-46
+  name: Berlin S46
+  hex: "#CD9C53"
+- id: 4-08-47
+  name: Berlin S47
+  hex: "#CD9C53"
+- id: 4-08-5
+  name: Berlin S5
+  hex: "#EB7405"
+- id: 4-08-7
+  name: Berlin S7
+  hex: "#816DA6"
+- id: 4-08-75
+  name: Berlin S75
+  hex: "#816DA6"
+- id: 4-08-8
+  name: Berlin S8
+  hex: "#66AA22"
+- id: 4-08-85
+  name: Berlin S85
+  hex: "#66AA22"
+- id: 4-08-9
+  name: Berlin S9
+  hex: "#992746"
+- id: 7-vbbbvu-1
+  name: Berlin U1
+  hex: "#7DAD4C"
+- id: 7-vbbbvu-2
+  name: Berlin U2
+  hex: "#DA421E"
+- id: 7-vbbbvu-3
+  name: Berlin U3
+  hex: "#007A5B"
+- id: 7-vbbbvu-4
+  name: Berlin U4
+  hex: "#F0D722"
+- id: 7-vbbbvu-5
+  name: Berlin U5
+  hex: "#7E5330"
+- id: 7-vbbbvu-6
+  name: Berlin U6
+  hex: "#8C6DAB"
+- id: 7-vbbbvu-7
+  name: Berlin U7
+  hex: "#528DBA"
+- id: 7-vbbbvu-8
+  name: Berlin U8
+  hex: "#224F86"
+- id: 7-vbbbvu-9
+  name: Berlin U9
+  hex: "#F3791D"
+- id: 7-vrr070-70
+  name: Düsseldorf U70
+  hex: "#5aadcd"
+- id: 7-vrr070-71
+  name: Düsseldorf U71
+  hex: "#41c7f4"
+- id: 7-vrr070-72
+  name: Düsseldorf U72
+  hex: "#20bdc6"
+- id: 7-vrr070-73
+  name: Düsseldorf U73
+  hex: "#416ab4"
+- id: 7-vrr070-74
+  name: Düsseldorf U74
+  hex: "#292780"
+- id: 7-vrr070-75
+  name: Düsseldorf U75
+  hex: "#0099c6"
+- id: 7-vrr070-76
+  name: Düsseldorf U76
+  hex: "#006cb7"
+- id: 7-vrr070-77
+  name: Düsseldorf U77
+  hex: "#6892cc"
+- id: 7-vrr070-78
+  name: Düsseldorf U78
+  hex: "#01a7e9"
+- id: 7-vrr020-79
+  name: Düsseldorf U79
+  hex: "#01a99d"
